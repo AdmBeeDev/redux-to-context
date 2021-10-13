@@ -22,7 +22,7 @@ Rode o  `npm install`.
 Vá para a branch master do seu projeto e execute o comando:
 `git branch`  ou  `git branch -a`
 
-Verifique se a a branch  `master`  apareceu:
+Verifique se a branch  `master`  apareceu:
 
 -   O exercício deverá ser feito na branch  `master`.
 
