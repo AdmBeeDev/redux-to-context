@@ -8,7 +8,7 @@ Este exercício consiste em uma aplicação com dois formulários criados, cada 
 
 Para que eles funcionem bem, foi utilizado o Redux para salvar as informações de cada formulário na store e, por fim, na página final `FormDataDisplay`, ao submeter o formulário, acessamos esses dados para que sejam renderizados na tela.
 
-Seu objetivo aqui será o de substituir totalmente a utilização do do `Redux` por `Context API` para isso, é interessante que você leia [ESTE CONTEÚDO](https://www.notion.so/beedeveloper/Context-API-do-React-b7981d474b024071a07430bc31495b36);
+Seu objetivo aqui será o de substituir totalmente a utilização do `Redux` por `Context API` para isso, é interessante que você leia [ESTE CONTEÚDO](https://www.notion.so/beedeveloper/Context-API-do-React-b7981d474b024071a07430bc31495b36);
 
 ### Antes de iniciar
 
